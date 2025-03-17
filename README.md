@@ -1,5 +1,3 @@
-<H2>The data are from a website for cooking recipes. The company that owns the website wants to sell subscriptions, and the idea is that if the website receives lots of visits (so traffic is “high”) because of a posted recipe, the likelihood of a subscription sale increases.
+This project aims to predict high website traffic for a recipe site by analyzing various data attributes (such as recipe IDs, nutritional values, categories, and serving sizes) to identify recipes likely to attract a large number of visitors. The approach involves data preparation, exploratory analysis, and the development of predictive models—including a linear probability model, logistic regression, and random forest—implemented in R. Model performance is assessed using confusion matrices, ROC curves, and AUC, while marginal effects and variable importance guide the site's editorial strategy.
 
-Hence the overall objective of this project is to predict which recipes will lead to high traffic.
-
-The raw data set for this project is .recipe_site_traffic_2212.csv  </H2>
+The raw data set for this project is .recipe_site_traffic_2212.csv
